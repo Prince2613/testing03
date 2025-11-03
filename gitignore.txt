@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+polxium_env/
+
+# OS/editor junk
+.DS_Store
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Big or sensitive data
+models/
+data/
